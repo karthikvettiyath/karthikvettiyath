@@ -83,9 +83,9 @@ Real-time disaster communication and coordination platform with zone-based commu
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Karthik V R](www.linkedin.com/in/karthik-v-r)
+- 💼 LinkedIn: (www.linkedin.com/in/karthik-v-r)
 - 📧 Email: karthikvettiyath@gmail.com
-- 🐙 GitHub: [@karthikvettiyath](https://github.com/karthikvettiyath)
+- 🐙 GitHub: (https://github.com/karthikvettiyath)
 
 ---
 
